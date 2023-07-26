@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "QuizGame.DB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "QuizGame.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuizGame.DB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizGame.DB.dll": {}
+        }
+      },
+      "QuizGame.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/QuizGame.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizGame.Models.dll": {}
+        }
+      },
+      "QuizGame.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "QuizGame.DB": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuizGame.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizGame.Services.dll": {}
+        }
+      },
+      "QuizGame.UIController/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "QuizGame.Models": "1.0.0",
+          "QuizGame.Services": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuizGame.UIController.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizGame.UIController.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizGame.DB/1.0.0": {
+      "type": "project",
+      "path": "../QuizGame.DB/QuizGame.DB.csproj",
+      "msbuildProject": "../QuizGame.DB/QuizGame.DB.csproj"
+    },
+    "QuizGame.Models/1.0.0": {
+      "type": "project",
+      "path": "../QuizGame.Models/QuizGame.Models.csproj",
+      "msbuildProject": "../QuizGame.Models/QuizGame.Models.csproj"
+    },
+    "QuizGame.Services/1.0.0": {
+      "type": "project",
+      "path": "../QuizGame.Services/QuizGame.Services.csproj",
+      "msbuildProject": "../QuizGame.Services/QuizGame.Services.csproj"
+    },
+    "QuizGame.UIController/1.0.0": {
+      "type": "project",
+      "path": "../../QuizGame.UIController/QuizGame.UIController.csproj",
+      "msbuildProject": "../../QuizGame.UIController/QuizGame.UIController.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "QuizGame.UIController >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\luism\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\luism\\Documents\\JalaSoft\\C# mentoring\\QuizAPI\\QuizAPI\\src\\QuizGame\\QuizGame.csproj",
+      "projectName": "QuizGame",
+      "projectPath": "C:\\Users\\luism\\Documents\\JalaSoft\\C# mentoring\\QuizAPI\\QuizAPI\\src\\QuizGame\\QuizGame.csproj",
+      "packagesPath": "C:\\Users\\luism\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luism\\Documents\\JalaSoft\\C# mentoring\\QuizAPI\\QuizAPI\\src\\QuizGame\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\luism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gitlab.com/api/v4/projects/26740325/packages/nuget/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\luism\\Documents\\JalaSoft\\C# mentoring\\QuizAPI\\QuizAPI\\QuizGame.UIController\\QuizGame.UIController.csproj": {
+              "projectPath": "C:\\Users\\luism\\Documents\\JalaSoft\\C# mentoring\\QuizAPI\\QuizAPI\\QuizGame.UIController\\QuizGame.UIController.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

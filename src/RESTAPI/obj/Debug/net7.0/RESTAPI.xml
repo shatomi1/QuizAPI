@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RESTAPI</name>
+    </assembly>
+    <members>
+        <member name="M:RESTAPI.Controllers.QuestionController.GetQuestions">
+            <summary>
+            Get the list of questions
+            </summary>
+            <returns>A list of questions</returns>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuestionController.GetQuestion(System.Guid)">
+            <summary>
+            Get a question by its id
+            </summary>
+            <param name="id">A question id</param>
+            <returns>A question</returns>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuestionController.PostQuestion(QuizGame.Models.Question)">
+            <summary>
+            Create a question
+            </summary>
+            <param name="quiz">A question object</param>
+            <returns>A question object</returns>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuestionController.DeleteQuestion(System.Guid)">
+            <summary>
+            Delete a question from the database
+            </summary>
+            <param name="id">A question id</param>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuizController.GetQuizzes">
+            <summary>
+            Get the list of quizzes
+            </summary>
+            <returns>A list of quizzes</returns>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuizController.GetQuiz(System.Guid)">
+            <summary>
+            Get a quiz by its id
+            </summary>
+            <param name="id">A quiz id</param>
+            <returns>A quiz</returns>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuizController.PostQuestion(QuizGame.Models.DTOs.QuizDTO)">
+            <summary>
+            Create a quiz
+            </summary>
+            <param name="quiz">A quiz object</param>
+            <returns>A quiz object</returns>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuizController.DeleteQuiz(System.Guid)">
+            <summary>
+            Delete a quiz from the database
+            </summary>
+            <param name="idToDelete">A quiz id</param>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+        <member name="M:RESTAPI.Controllers.QuizController.UpdateQuiz(System.Guid,QuizGame.Models.DTOs.QuizDTO)">
+            <summary>
+            Update a quiz from the database
+            </summary>
+            <param name="id">A quiz id</param>
+            <response code="200">Success response</response>
+            <response code="400">Bad request response</response>
+        </member>
+    </members>
+</doc>

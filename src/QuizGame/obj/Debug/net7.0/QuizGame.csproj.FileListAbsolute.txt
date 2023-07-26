@@ -1,0 +1,48 @@
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.exe
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.deps.json
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.runtimeconfig.json
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.DB.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Models.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Services.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.UIController.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.UIController.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.DB.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Models.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Services.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.csproj.AssemblyReference.cache
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.AssemblyInfoInputs.cache
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.AssemblyInfo.cs
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.csproj.CoreCompileInputs.cache
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.csproj.CopyComplete
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\refint\QuizGame.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.genruntimeconfig.cache
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame\obj\Debug\net7.0\ref\QuizGame.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.exe
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.deps.json
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.runtimeconfig.json
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.DB.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Models.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Services.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.UIController.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.UIController.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.DB.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Models.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\bin\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.csproj.AssemblyReference.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.AssemblyInfoInputs.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.AssemblyInfo.cs
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.csproj.CopyComplete
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\refint\QuizGame.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\QuizGame.genruntimeconfig.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame\obj\Debug\net7.0\ref\QuizGame.dll

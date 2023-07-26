@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "QuizGame/1.0.0": {
+        "dependencies": {
+          "QuizGame.UIController": "1.0.0"
+        },
+        "runtime": {
+          "QuizGame.dll": {}
+        }
+      },
+      "QuizGame.DB/1.0.0": {
+        "dependencies": {
+          "QuizGame.Models": "1.0.0"
+        },
+        "runtime": {
+          "QuizGame.DB.dll": {}
+        }
+      },
+      "QuizGame.Models/1.0.0": {
+        "runtime": {
+          "QuizGame.Models.dll": {}
+        }
+      },
+      "QuizGame.Services/1.0.0": {
+        "dependencies": {
+          "QuizGame.DB": "1.0.0"
+        },
+        "runtime": {
+          "QuizGame.Services.dll": {}
+        }
+      },
+      "QuizGame.UIController/1.0.0": {
+        "dependencies": {
+          "QuizGame.Models": "1.0.0",
+          "QuizGame.Services": "1.0.0"
+        },
+        "runtime": {
+          "QuizGame.UIController.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizGame.DB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizGame.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizGame.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuizGame.UIController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

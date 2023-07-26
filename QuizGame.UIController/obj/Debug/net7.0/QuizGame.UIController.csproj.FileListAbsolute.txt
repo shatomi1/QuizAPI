@@ -1,0 +1,38 @@
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.UIController.deps.json
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.UIController.dll
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.UIController.pdb
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.DB.dll
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Models.dll
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Services.dll
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Models.pdb
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Services.pdb
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.DB.pdb
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.csproj.AssemblyReference.cache
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.GeneratedMSBuildEditorConfig.editorconfig
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.AssemblyInfoInputs.cache
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.AssemblyInfo.cs
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.csproj.CoreCompileInputs.cache
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.csproj.CopyComplete
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.dll
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\refint\QuizGame.UIController.dll
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.pdb
+F:\Jalasoft\C#Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\ref\QuizGame.UIController.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.UIController.deps.json
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.UIController.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.UIController.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.DB.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Models.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Services.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Models.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\bin\Debug\net7.0\QuizGame.DB.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.csproj.AssemblyReference.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.AssemblyInfoInputs.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.AssemblyInfo.cs
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.csproj.CopyComplete
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\refint\QuizGame.UIController.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\QuizGame.UIController.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\QuizGame.UIController\obj\Debug\net7.0\ref\QuizGame.UIController.dll

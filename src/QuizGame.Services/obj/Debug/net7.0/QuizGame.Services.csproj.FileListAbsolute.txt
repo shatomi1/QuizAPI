@@ -1,0 +1,68 @@
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.deps.json
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.AssemblyReference.cache
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfoInputs.cache
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfo.cs
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CoreCompileInputs.cache
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CopyComplete
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\refint\QuizGame.Services.dll
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.pdb
+F:\Jalasoft\C#Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\ref\QuizGame.Services.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.deps.json
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.AssemblyReference.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfoInputs.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfo.cs
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CopyComplete
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\refint\QuizGame.Services.dll
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\Enrique\Documents\Jalasoft\C# Training\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\ref\QuizGame.Services.dll
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.deps.json
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.dll
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.dll
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.dll
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.pdb
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.pdb
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.AssemblyReference.cache
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfoInputs.cache
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfo.cs
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CoreCompileInputs.cache
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CopyComplete
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.dll
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\refint\QuizGame.Services.dll
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\luism\Downloads\QuizGame\QuizGame\src\QuizGame.Services\obj\Debug\net7.0\ref\QuizGame.Services.dll
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.deps.json
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.dll
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.dll
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.dll
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.DB.pdb
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\bin\Debug\net7.0\QuizGame.Models.pdb
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.AssemblyReference.cache
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfoInputs.cache
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.AssemblyInfo.cs
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CoreCompileInputs.cache
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.csproj.CopyComplete
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.dll
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\refint\QuizGame.Services.dll
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\QuizGame.Services.pdb
+C:\Users\luism\Documents\JalaSoft\C# mentoring\QuizAPI\QuizAPI\src\QuizGame.Services\obj\Debug\net7.0\ref\QuizGame.Services.dll
